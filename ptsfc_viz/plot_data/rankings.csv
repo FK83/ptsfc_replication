@@ -1,0 +1,7 @@
+model,mean_rk_wind,mean_rk_temp,mean_rk_overall
+Model1,2,3.5,2.75
+Model2,2.5,2,2.25
+Model2,3,3,3
+Model4,4.5,5.5,5
+Model5,4.5,3.5,4
+Model6,5,3.5,4.25
