@@ -1,6 +1,6 @@
 ## Contents 
 
-This repository contains materials related to the paper by Bracher, Koster, Krüger and Lerch (2022).
+This repository contains materials related to the paper by Bracher, Koster, Krüger and Lerch (2022), available at <https://arxiv.org/abs/2211.16171>.
 
 - The folder '/ptsfc_viz/' contains a simple Shiny app for illustrating collaborative forecasts as described in the paper. The app is a reduced version of the one used in the project described in the paper. Please refer to the folder's separate README file for more information.
 
